@@ -23,3 +23,9 @@
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
 ||business.samsungusa.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||advertising.twitter.com^
+||widgets.pinterest.com^
+||ads.reddit.com^
+||d.reddit.com^
